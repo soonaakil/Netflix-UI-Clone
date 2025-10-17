@@ -4,9 +4,9 @@ export const movies = [
     title: "Deadpool & Wolverine",
     release_date: "2024-07-24",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Action",
   },
   {
@@ -14,9 +14,9 @@ export const movies = [
     title: "Twisters",
     release_date: "2024-07-10",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Thriller",
   },
   {
@@ -24,9 +24,9 @@ export const movies = [
     title: "Inside Out 2",
     release_date: "2024-06-11",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Animation",
   },
   {
@@ -34,9 +34,9 @@ export const movies = [
     title: "Despicable Me 4",
     release_date: "2024-06-20",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Animation",
   },
   {
@@ -44,9 +44,9 @@ export const movies = [
     title: "Bad Boys: Ride or Die",
     release_date: "2024-06-05",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Action",
   },
 ];
@@ -57,9 +57,9 @@ export const movies2 = [
     title: "Kill",
     release_date: "2024-07-03",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Thriller",
   },
   {
@@ -67,9 +67,9 @@ export const movies2 = [
     title: "A Quiet Place: Day One",
     release_date: "2024-06-26",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Horror",
   },
   {
@@ -77,9 +77,9 @@ export const movies2 = [
     title: "Saving Bikini Bottom: The Sandy Cheeks Movie",
     release_date: "2024-08-01",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Animation",
   },
   {
@@ -87,9 +87,9 @@ export const movies2 = [
     title: "It Ends with Us",
     release_date: "2024-08-07",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Drama",
   },
   {
@@ -97,9 +97,9 @@ export const movies2 = [
     title: "Alien: Romulus",
     release_date: "2024-08-13",
     backdrop_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     poster_path:
-      "https://images-cdn.ubuy.co.in/665bcadd1e724a0c96400a08-zootopia-dvd-disney-kids-family.jpg",
+      "https://wallpapercave.com/wp/wp2112723.jpg",
     category: "Sci-Fi",
   },
 ];
